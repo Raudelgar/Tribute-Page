@@ -1,0 +1,30 @@
+.jumbotron {
+  padding: 20px 0 20px 0;
+  background-color: #C0B686;
+}
+
+body {
+  background-image: url("https://previews.123rf.com/images/lembit/lembit1003/lembit100300021/6652473-abstract-musical-background-acoustic-guitar-on-a-light-Stock-Photo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.container-fluid {
+  padding: 100px;
+}
+
+.caption {
+  color: #788D9F;
+}
+
+.footer {
+  padding: 30px;
+  background-color: #3F4951;
+  text-align: center;
+}
+
+.footer p {
+  color: #F4F9FD;
+}
